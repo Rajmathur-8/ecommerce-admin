@@ -16,7 +16,21 @@ import { runSeed } from './seedData/seed.js';
 const PORT = process.env.PORT || 8000;
 const app = express();
 
-app.use(cors());
+// Configure CORS to allow frontend requests
+const corsOptions = {
+  origin: [
+    'https://ecommerce-frontend-git-main-rajmathurwork-1432s-projects.vercel.app',
+    'https://ecommerce-frontend.vercel.app',
+    'http://localhost:3000',
+    'http://localhost:3001',
+    process.env.FRONTEND_URL || ''
+  ].filter(Boolean),
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+};
+
+app.use(cors(corsOptions));
 app.use(compression());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
