@@ -18,13 +18,34 @@ const app = express();
 
 // Configure CORS to allow frontend requests
 const corsOptions = {
-  origin: [
-    'https://ecommerce-frontend-git-main-rajmathurwork-1432s-projects.vercel.app',
-    'https://ecommerce-frontend.vercel.app',
-    'http://localhost:3000',
-    'http://localhost:3001',
-    process.env.FRONTEND_URL || ''
-  ].filter(Boolean),
+  origin: function (origin, callback) {
+    // Allow requests with no origin (like mobile apps or Postman)
+    if (!origin) return callback(null, true);
+    
+    // Allow localhost for development
+    if (origin.includes('localhost') || origin.includes('127.0.0.1')) {
+      return callback(null, true);
+    }
+    
+    // Allow all Vercel domains
+    if (origin.includes('vercel.app')) {
+      return callback(null, true);
+    }
+    
+    // Allow specific production domains
+    const allowedOrigins = [
+      'https://www.guptadistributors.com',
+      'https://guptadistributors.com',
+      process.env.FRONTEND_URL,
+      process.env.ADMIN_URL,
+    ].filter(Boolean);
+    
+    if (allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+    
+    callback(null, true); // Allow all for now - can be restricted later
+  },
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
