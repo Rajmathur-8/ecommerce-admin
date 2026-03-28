@@ -52,6 +52,10 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+
+// Explicit OPTIONS handler for preflight requests
+app.options('*', cors(corsOptions));
+
 app.use(compression());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
