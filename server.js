@@ -32,6 +32,11 @@ const corsOptions = {
       return callback(null, true);
     }
     
+    // Allow all Render domains (for frontend and admin panel)
+    if (origin.includes('onrender.com')) {
+      return callback(null, true);
+    }
+    
     // Allow specific production domains
     const allowedOrigins = [
       'https://www.guptadistributors.com',
