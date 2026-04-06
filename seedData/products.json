@@ -1,21 +1,4 @@
 {
-  "metadata": {
-    "store": "TechStore India",
-    "version": "5.0.0",
-    "lastUpdated": "2026-03-26",
-    "currency": "INR",
-    "totalProducts": 55,
-    "categories": [
-      "TV",
-      "Mobile",
-      "Laptops",
-      "Tablets"
-    ],
-    "brands": [
-      "Samsung",
-      "Apple"
-    ]
-  },
   "products": [
     {
       "id": "TV-001",
@@ -43,10 +26,7 @@
       "shipmentWeight": 9.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung Crystal 4K Vivid 43 inch - Titan Black\",\"stock\":85,\"price\":\"41300\",\"discountPrice\":\"25990\",\"sku\":\"TV-963201-A4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"43 inch\"}}]",
-      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:108 cm (43 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:108 cm (43 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year"
     },
     {
       "id": "TV-002",
@@ -74,10 +54,7 @@
       "shipmentWeight": 14.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung Crystal 4K Vision Pro 55 inch - Titan Black\",\"stock\":60,\"price\":\"59800\",\"discountPrice\":\"29999\",\"sku\":\"TV-963202-B4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"55 inch\"}}]",
-      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Bright Vision:Yes,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Bright Vision:Yes,Warranty:2 Year"
     },
     {
       "id": "TV-003",
@@ -105,10 +82,7 @@
       "shipmentWeight": 21,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung Crystal 4K Vision Pro 65 inch - Titan Black\",\"stock\":45,\"price\":\"82900\",\"discountPrice\":\"41990\",\"sku\":\"TV-963203-C4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"65 inch\"}}]",
-      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year"
     },
     {
       "id": "TV-004",
@@ -136,10 +110,7 @@
       "shipmentWeight": 4.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung 32 inch HD Ready LED Smart TV - Titan Black\",\"stock\":200,\"price\":\"17700\",\"discountPrice\":\"13990\",\"sku\":\"TV-963204-D32-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"32 inch\"}}]",
-      "specifications": "Display Type:LED,Resolution:HD Ready,Screen Size:80 cm (32 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR,Sound Output:20 W,HDMI Ports:2,USB Ports:1,Launch Year:2025,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:LED,Resolution:HD Ready,Screen Size:80 cm (32 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR,Sound Output:20 W,HDMI Ports:2,USB Ports:1,Launch Year:2025,Warranty:1 Year"
     },
     {
       "id": "TV-005",
@@ -167,10 +138,7 @@
       "shipmentWeight": 16,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung QLED 55 inch 4K Vision AI TV - Titan Black\",\"stock\":30,\"price\":\"119900\",\"discountPrice\":\"64990\",\"sku\":\"TV-963205-E4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"55 inch\"}}]",
-      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:120 Hz,HDR:Quantum HDR,Sound Output:20 W,Color Volume:100%,Vision AI:Yes,HDMI Ports:4,USB Ports:2,Launch Year:2025,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:120 Hz,HDR:Quantum HDR,Sound Output:20 W,Color Volume:100%,Vision AI:Yes,HDMI Ports:4,USB Ports:2,Launch Year:2025,Warranty:2 Year"
     },
     {
       "id": "TV-006",
@@ -198,10 +166,7 @@
       "shipmentWeight": 23,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung QLED 65 inch 4K Vision AI TV - Titan Black\",\"stock\":25,\"price\":\"161200\",\"discountPrice\":\"89990\",\"sku\":\"TV-963206-F4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"65 inch\"}}]",
-      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:120 Hz,HDR:Quantum HDR,Sound Output:20 W,Color Volume:100%,Vision AI:Yes,HDMI Ports:4,USB Ports:2,Launch Year:2025,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:120 Hz,HDR:Quantum HDR,Sound Output:20 W,Color Volume:100%,Vision AI:Yes,HDMI Ports:4,USB Ports:2,Launch Year:2025,Warranty:2 Year"
     },
     {
       "id": "TV-007",
@@ -229,10 +194,7 @@
       "shipmentWeight": 18.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung Neo QLED 55 inch 4K Mini LED TV - Titan Black\",\"stock\":20,\"price\":\"189900\",\"discountPrice\":\"109990\",\"sku\":\"TV-963207-G4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"55 inch\"}}]",
-      "specifications": "Display Type:Neo QLED (Mini LED),Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:144 Hz,HDR:HDR10+,Brightness:4000 nits,Sound Output:60 W,HDMI Ports:4 (HDMI 2.1),USB Ports:2,Launch Year:2025,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:Neo QLED (Mini LED),Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:144 Hz,HDR:HDR10+,Brightness:4000 nits,Sound Output:60 W,HDMI Ports:4 (HDMI 2.1),USB Ports:2,Launch Year:2025,Warranty:2 Year"
     },
     {
       "id": "TV-008",
@@ -260,10 +222,7 @@
       "shipmentWeight": 26,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung Neo QLED 65 inch 4K Mini LED TV - Titan Black\",\"stock\":15,\"price\":\"249900\",\"discountPrice\":\"149990\",\"sku\":\"TV-963208-H4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"65 inch\"}}]",
-      "specifications": "Display Type:Neo QLED (Mini LED),Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:144 Hz,HDR:HDR10+,Brightness:4000 nits,Sound Output:60 W,HDMI Ports:4 (HDMI 2.1),USB Ports:2,Launch Year:2025,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:Neo QLED (Mini LED),Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:144 Hz,HDR:HDR10+,Brightness:4000 nits,Sound Output:60 W,HDMI Ports:4 (HDMI 2.1),USB Ports:2,Launch Year:2025,Warranty:2 Year"
     },
     {
       "id": "TV-009",
@@ -291,10 +250,7 @@
       "shipmentWeight": 15,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung The Frame 55 inch - Charcoal Black\",\"stock\":20,\"price\":\"129900\",\"discountPrice\":\"89990\",\"sku\":\"TV-963209-I4K-BLK\",\"attributes\":{\"color\":\"Charcoal Black\",\"size\":\"55 inch\"}},{\"variantName\":\"Samsung The Frame 55 inch - White\",\"stock\":15,\"price\":\"129900\",\"discountPrice\":\"91990\",\"sku\":\"TV-963209-I4K-WHT\",\"attributes\":{\"color\":\"White\",\"size\":\"55 inch\"}}]",
-      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:100 Hz,HDR:Quantum HDR,Art Mode:Yes,Matte Display:Yes,Sound Output:40 W,HDMI Ports:4,USB Ports:2,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:138 cm (55 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:100 Hz,HDR:Quantum HDR,Art Mode:Yes,Matte Display:Yes,Sound Output:40 W,HDMI Ports:4,USB Ports:2,Warranty:2 Year"
     },
     {
       "id": "TV-010",
@@ -322,10 +278,7 @@
       "shipmentWeight": 22,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung The Frame 65 inch - Charcoal Black\",\"stock\":12,\"price\":\"189900\",\"discountPrice\":\"129990\",\"sku\":\"TV-963210-J4K-BLK\",\"attributes\":{\"color\":\"Charcoal Black\",\"size\":\"65 inch\"}},{\"variantName\":\"Samsung The Frame 65 inch - White\",\"stock\":8,\"price\":\"189900\",\"discountPrice\":\"131990\",\"sku\":\"TV-963210-J4K-WHT\",\"attributes\":{\"color\":\"White\",\"size\":\"65 inch\"}}]",
-      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:100 Hz,HDR:Quantum HDR,Art Mode:Yes,Matte Display:Yes,Sound Output:40 W,HDMI Ports:4,USB Ports:2,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:QLED,Resolution:Ultra HD (4K),Screen Size:163 cm (65 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:100 Hz,HDR:Quantum HDR,Art Mode:Yes,Matte Display:Yes,Sound Output:40 W,HDMI Ports:4,USB Ports:2,Warranty:2 Year"
     },
     {
       "id": "TV-011",
@@ -353,10 +306,7 @@
       "shipmentWeight": 12,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung Crystal 4K Vista 50 inch - Titan Black\",\"stock\":55,\"price\":\"52900\",\"discountPrice\":\"31990\",\"sku\":\"TV-963211-K4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"50 inch\"}}]",
-      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:125 cm (50 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:125 cm (50 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year"
     },
     {
       "id": "TV-012",
@@ -384,10 +334,7 @@
       "shipmentWeight": 8.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung 43 inch Full HD LED Smart TV - Black\",\"stock\":90,\"price\":\"38900\",\"discountPrice\":\"22490\",\"sku\":\"TV-963212-L4K-BLK\",\"attributes\":{\"color\":\"Black\",\"size\":\"43 inch\"}}]",
-      "specifications": "Display Type:LED,Resolution:Full HD,Screen Size:108 cm (43 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR,Sound Output:20 W,HDMI Ports:2,USB Ports:1,AirSlim Design:Yes,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:LED,Resolution:Full HD,Screen Size:108 cm (43 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR,Sound Output:20 W,HDMI Ports:2,USB Ports:1,AirSlim Design:Yes,Warranty:1 Year"
     },
     {
       "id": "TV-013",
@@ -415,10 +362,7 @@
       "shipmentWeight": 0.4,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Apple TV 4K 3rd Gen - Wi-Fi 64GB\",\"stock\":80,\"price\":\"19900\",\"discountPrice\":\"15990\",\"sku\":\"TV-963213-M4K-64\",\"attributes\":{\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Apple TV 4K 3rd Gen - Wi-Fi + Ethernet 128GB\",\"stock\":40,\"price\":\"21900\",\"discountPrice\":\"17990\",\"sku\":\"TV-963213-M4K-128\",\"attributes\":{\"storage\":\"128GB\",\"connectivity\":\"Wi-Fi + Ethernet\"}}]",
-      "specifications": "Chip:Apple A15 Bionic,Resolution:4K HDR,HDR Formats:Dolby Vision HDR10+ HLG,Storage:64GB / 128GB,Connectivity:Wi-Fi 6,Bluetooth:5.0,Remote:Siri Remote,OS:tvOS 17,HDMI:HDMI 2.1,Supported Apps:Netflix Prime Video Disney+ Hotstar JioCinema,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A15 Bionic,Resolution:4K HDR,HDR Formats:Dolby Vision HDR10+ HLG,Storage:64GB / 128GB,Connectivity:Wi-Fi 6,Bluetooth:5.0,Remote:Siri Remote,OS:tvOS 17,HDMI:HDMI 2.1,Supported Apps:Netflix Prime Video Disney+ Hotstar JioCinema,Warranty:1 Year"
     },
     {
       "id": "TV-014",
@@ -446,10 +390,7 @@
       "shipmentWeight": 0.3,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Apple TV HD - Black 32GB\",\"stock\":80,\"price\":\"15900\",\"discountPrice\":\"12990\",\"sku\":\"TV-963214-N32-BLK\",\"attributes\":{\"storage\":\"32GB\",\"color\":\"Black\"}}]",
-      "specifications": "Chip:Apple A8,Resolution:1080p HD,HDR Formats:HDR10 HLG Dolby Digital Plus,Storage:32GB,Connectivity:Wi-Fi,Bluetooth:5.0,Remote:Siri Remote,OS:tvOS,HDMI:HDMI,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A8,Resolution:1080p HD,HDR Formats:HDR10 HLG Dolby Digital Plus,Storage:32GB,Connectivity:Wi-Fi,Bluetooth:5.0,Remote:Siri Remote,OS:tvOS,HDMI:HDMI,Warranty:1 Year"
     },
     {
       "id": "TV-015",
@@ -477,10 +418,7 @@
       "shipmentWeight": 38,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Samsung Crystal 4K 75 inch - Titan Black\",\"stock\":18,\"price\":\"149900\",\"discountPrice\":\"79990\",\"sku\":\"TV-963215-O4K-BLK\",\"attributes\":{\"color\":\"Titan Black\",\"size\":\"75 inch\"}}]",
-      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:189 cm (75 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Display Type:LED,Resolution:Ultra HD (4K),Screen Size:189 cm (75 inch),Smart TV:Yes,OS:Tizen,Refresh Rate:60 Hz,HDR:HDR10+,Sound Output:20 W,HDMI Ports:3,USB Ports:2,Launch Year:2024,Warranty:2 Year"
     },
     {
       "id": "MOB-001",
@@ -508,10 +446,7 @@
       "shipmentWeight": 0.6,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy S24 Ultra 256GB - Titanium Black\",\"stock\":25,\"price\":\"134999\",\"discountPrice\":\"109999\",\"sku\":\"MOB-741201-A5G-BLK-256\",\"attributes\":{\"color\":\"Titanium Black\",\"storage\":\"256GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S24 Ultra 512GB - Titanium Black\",\"stock\":20,\"price\":\"154999\",\"discountPrice\":\"124999\",\"sku\":\"MOB-741201-A5G-BLK-512\",\"attributes\":{\"color\":\"Titanium Black\",\"storage\":\"512GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S24 Ultra 256GB - Titanium Gray\",\"stock\":15,\"price\":\"134999\",\"discountPrice\":\"109999\",\"sku\":\"MOB-741201-A5G-GRY-256\",\"attributes\":{\"color\":\"Titanium Gray\",\"storage\":\"256GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S24 Ultra 256GB - Titanium Violet\",\"stock\":15,\"price\":\"134999\",\"discountPrice\":\"109999\",\"sku\":\"MOB-741201-A5G-VIO-256\",\"attributes\":{\"color\":\"Titanium Violet\",\"storage\":\"256GB\",\"ram\":\"12GB\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 3,RAM:12 GB,Storage:256GB / 512GB / 1TB,Display:6.8 inch QHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:200MP + 50MP + 10MP + 12MP,Front Camera:12MP,Battery:5000 mAh,Charging:45W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,S Pen:Yes Built-in,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 3,RAM:12 GB,Storage:256GB / 512GB / 1TB,Display:6.8 inch QHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:200MP + 50MP + 10MP + 12MP,Front Camera:12MP,Battery:5000 mAh,Charging:45W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,S Pen:Yes Built-in,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-002",
@@ -539,10 +474,7 @@
       "shipmentWeight": 0.55,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy S24+ 256GB - Onyx Black\",\"stock\":20,\"price\":\"114999\",\"discountPrice\":\"84999\",\"sku\":\"MOB-741202-B5G-BLK-256\",\"attributes\":{\"color\":\"Onyx Black\",\"storage\":\"256GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S24+ 512GB - Onyx Black\",\"stock\":15,\"price\":\"134999\",\"discountPrice\":\"99999\",\"sku\":\"MOB-741202-B5G-BLK-512\",\"attributes\":{\"color\":\"Onyx Black\",\"storage\":\"512GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S24+ 256GB - Cobalt Violet\",\"stock\":15,\"price\":\"114999\",\"discountPrice\":\"84999\",\"sku\":\"MOB-741202-B5G-VIO-256\",\"attributes\":{\"color\":\"Cobalt Violet\",\"storage\":\"256GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S24+ 256GB - Amber Yellow\",\"stock\":15,\"price\":\"114999\",\"discountPrice\":\"84999\",\"sku\":\"MOB-741202-B5G-YEL-256\",\"attributes\":{\"color\":\"Amber Yellow\",\"storage\":\"256GB\",\"ram\":\"12GB\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 3,RAM:12 GB,Storage:256GB / 512GB,Display:6.7 inch QHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 10MP,Front Camera:12MP,Battery:4900 mAh,Charging:45W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 3,RAM:12 GB,Storage:256GB / 512GB,Display:6.7 inch QHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 10MP,Front Camera:12MP,Battery:4900 mAh,Charging:45W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-003",
@@ -570,10 +502,7 @@
       "shipmentWeight": 0.45,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy S24 128GB - Onyx Black\",\"stock\":30,\"price\":\"79999\",\"discountPrice\":\"61999\",\"sku\":\"MOB-741203-C5G-BLK-128\",\"attributes\":{\"color\":\"Onyx Black\",\"storage\":\"128GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S24 256GB - Onyx Black\",\"stock\":20,\"price\":\"89999\",\"discountPrice\":\"69999\",\"sku\":\"MOB-741203-C5G-BLK-256\",\"attributes\":{\"color\":\"Onyx Black\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S24 128GB - Cobalt Violet\",\"stock\":20,\"price\":\"79999\",\"discountPrice\":\"61999\",\"sku\":\"MOB-741203-C5G-VIO-128\",\"attributes\":{\"color\":\"Cobalt Violet\",\"storage\":\"128GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S24 128GB - Marble Gray\",\"stock\":20,\"price\":\"79999\",\"discountPrice\":\"61999\",\"sku\":\"MOB-741203-C5G-GRY-128\",\"attributes\":{\"color\":\"Marble Gray\",\"storage\":\"128GB\",\"ram\":\"8GB\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 3,RAM:8 GB,Storage:128GB / 256GB,Display:6.2 inch FHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 10MP,Front Camera:12MP,Battery:4000 mAh,Charging:25W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 3,RAM:8 GB,Storage:128GB / 256GB,Display:6.2 inch FHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 10MP,Front Camera:12MP,Battery:4000 mAh,Charging:25W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-004",
@@ -601,10 +530,7 @@
       "shipmentWeight": 0.45,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy S24 FE 128GB - Blue\",\"stock\":40,\"price\":\"64999\",\"discountPrice\":\"33999\",\"sku\":\"MOB-741204-D5G-BLU-128\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"128GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S24 FE 256GB - Blue\",\"stock\":30,\"price\":\"69999\",\"discountPrice\":\"38999\",\"sku\":\"MOB-741204-D5G-BLU-256\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S24 FE 128GB - Graphite\",\"stock\":40,\"price\":\"64999\",\"discountPrice\":\"33999\",\"sku\":\"MOB-741204-D5G-GRP-128\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"128GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S24 FE 128GB - Mint\",\"stock\":40,\"price\":\"64999\",\"discountPrice\":\"33999\",\"sku\":\"MOB-741204-D5G-MNT-128\",\"attributes\":{\"color\":\"Mint\",\"storage\":\"128GB\",\"ram\":\"8GB\"}}]",
-      "specifications": "Processor:Exynos 2400e,RAM:8 GB,Storage:128GB / 256GB,Display:6.7 inch FHD+ Dynamic AMOLED,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 8MP,Front Camera:10MP,Battery:4700 mAh,Charging:25W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,IP Rating:IP68,Galaxy AI:Yes,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Exynos 2400e,RAM:8 GB,Storage:128GB / 256GB,Display:6.7 inch FHD+ Dynamic AMOLED,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 8MP,Front Camera:10MP,Battery:4700 mAh,Charging:25W Fast + 15W Wireless,OS:Android 14 (One UI 6.1),5G:Yes,IP Rating:IP68,Galaxy AI:Yes,Warranty:1 Year"
     },
     {
       "id": "MOB-005",
@@ -632,10 +558,7 @@
       "shipmentWeight": 0.55,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy S23 Ultra 256GB - Green\",\"stock\":15,\"price\":\"124999\",\"discountPrice\":\"79999\",\"sku\":\"MOB-741205-E5G-GRN-256\",\"attributes\":{\"color\":\"Green\",\"storage\":\"256GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S23 Ultra 256GB - Phantom Black\",\"stock\":15,\"price\":\"124999\",\"discountPrice\":\"79999\",\"sku\":\"MOB-741205-E5G-BLK-256\",\"attributes\":{\"color\":\"Phantom Black\",\"storage\":\"256GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy S23 Ultra 512GB - Phantom Black\",\"stock\":20,\"price\":\"144999\",\"discountPrice\":\"94999\",\"sku\":\"MOB-741205-E5G-BLK-512\",\"attributes\":{\"color\":\"Phantom Black\",\"storage\":\"512GB\",\"ram\":\"12GB\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB,Display:6.8 inch QHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:200MP + 10MP + 10MP + 12MP,Front Camera:12MP,Battery:5000 mAh,Charging:45W Fast,OS:Android 13 (One UI 5.1),5G:Yes,S Pen:Yes,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB,Display:6.8 inch QHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:200MP + 10MP + 10MP + 12MP,Front Camera:12MP,Battery:5000 mAh,Charging:45W Fast,OS:Android 13 (One UI 5.1),5G:Yes,S Pen:Yes,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-006",
@@ -663,10 +586,7 @@
       "shipmentWeight": 0.43,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy S23 FE 128GB - Graphite\",\"stock\":40,\"price\":\"59999\",\"discountPrice\":\"31999\",\"sku\":\"MOB-741206-F5G-GRP-128\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"128GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S23 FE 256GB - Graphite\",\"stock\":30,\"price\":\"64999\",\"discountPrice\":\"35999\",\"sku\":\"MOB-741206-F5G-GRP-256\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S23 FE 128GB - Mint\",\"stock\":25,\"price\":\"59999\",\"discountPrice\":\"31999\",\"sku\":\"MOB-741206-F5G-MNT-128\",\"attributes\":{\"color\":\"Mint\",\"storage\":\"128GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy S23 FE 128GB - Cream\",\"stock\":25,\"price\":\"59999\",\"discountPrice\":\"31999\",\"sku\":\"MOB-741206-F5G-CRM-128\",\"attributes\":{\"color\":\"Cream\",\"storage\":\"128GB\",\"ram\":\"8GB\"}}]",
-      "specifications": "Processor:Exynos 2200,RAM:8 GB,Storage:128GB / 256GB,Display:6.4 inch FHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 8MP,Front Camera:10MP,Battery:4500 mAh,Charging:25W Fast + 15W Wireless,OS:Android 13 (One UI 5.1),5G:Yes,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Exynos 2200,RAM:8 GB,Storage:128GB / 256GB,Display:6.4 inch FHD+ Dynamic AMOLED 2X,Refresh Rate:120 Hz,Rear Camera:50MP + 12MP + 8MP,Front Camera:10MP,Battery:4500 mAh,Charging:25W Fast + 15W Wireless,OS:Android 13 (One UI 5.1),5G:Yes,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-007",
@@ -694,10 +614,7 @@
       "shipmentWeight": 0.6,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Z Fold5 256GB - Icy Blue\",\"stock\":10,\"price\":\"164999\",\"discountPrice\":\"124999\",\"sku\":\"MOB-741207-G5G-BLU-256\",\"attributes\":{\"color\":\"Icy Blue\",\"storage\":\"256GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy Z Fold5 512GB - Phantom Black\",\"stock\":10,\"price\":\"184999\",\"discountPrice\":\"144999\",\"sku\":\"MOB-741207-G5G-BLK-512\",\"attributes\":{\"color\":\"Phantom Black\",\"storage\":\"512GB\",\"ram\":\"12GB\"}},{\"variantName\":\"Galaxy Z Fold5 256GB - Cream\",\"stock\":10,\"price\":\"164999\",\"discountPrice\":\"124999\",\"sku\":\"MOB-741207-G5G-CRM-256\",\"attributes\":{\"color\":\"Cream\",\"storage\":\"256GB\",\"ram\":\"12GB\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB,Inner Display:7.6 inch QHD+ Dynamic AMOLED 2X,Cover Display:6.2 inch FHD+ Dynamic AMOLED 2X,Rear Camera:50MP + 12MP + 10MP,Front Camera:4MP Under-display + 10MP Cover,Battery:4400 mAh,Charging:25W Fast + 15W Wireless,OS:Android 13,5G:Yes,IP Rating:IPX8,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB,Inner Display:7.6 inch QHD+ Dynamic AMOLED 2X,Cover Display:6.2 inch FHD+ Dynamic AMOLED 2X,Rear Camera:50MP + 12MP + 10MP,Front Camera:4MP Under-display + 10MP Cover,Battery:4400 mAh,Charging:25W Fast + 15W Wireless,OS:Android 13,5G:Yes,IP Rating:IPX8,Warranty:1 Year"
     },
     {
       "id": "MOB-008",
@@ -725,10 +642,7 @@
       "shipmentWeight": 0.4,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Z Flip5 256GB - Graphite\",\"stock\":15,\"price\":\"99999\",\"discountPrice\":\"74999\",\"sku\":\"MOB-741208-H5G-GRP-256\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy Z Flip5 256GB - Cream\",\"stock\":10,\"price\":\"99999\",\"discountPrice\":\"74999\",\"sku\":\"MOB-741208-H5G-CRM-256\",\"attributes\":{\"color\":\"Cream\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy Z Flip5 256GB - Lavender\",\"stock\":15,\"price\":\"99999\",\"discountPrice\":\"74999\",\"sku\":\"MOB-741208-H5G-LAV-256\",\"attributes\":{\"color\":\"Lavender\",\"storage\":\"256GB\",\"ram\":\"8GB\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:8 GB,Storage:256GB,Cover Screen:3.4 inch Flex Window Super AMOLED,Inner Display:6.7 inch FHD+ Dynamic AMOLED 2X,Rear Camera:12MP + 12MP,Front Camera:10MP,Battery:3700 mAh,Charging:25W Fast,OS:Android 13,5G:Yes,IP Rating:IPX8,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:8 GB,Storage:256GB,Cover Screen:3.4 inch Flex Window Super AMOLED,Inner Display:6.7 inch FHD+ Dynamic AMOLED 2X,Rear Camera:12MP + 12MP,Front Camera:10MP,Battery:3700 mAh,Charging:25W Fast,OS:Android 13,5G:Yes,IP Rating:IPX8,Warranty:1 Year"
     },
     {
       "id": "MOB-009",
@@ -756,10 +670,7 @@
       "shipmentWeight": 0.55,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPhone 15 Pro Max 256GB - Black Titanium\",\"stock\":15,\"price\":\"189900\",\"discountPrice\":\"149900\",\"sku\":\"MOB-741209-I5G-BLK-256\",\"attributes\":{\"color\":\"Black Titanium\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 15 Pro Max 512GB - Black Titanium\",\"stock\":10,\"price\":\"209900\",\"discountPrice\":\"169900\",\"sku\":\"MOB-741209-I5G-BLK-512\",\"attributes\":{\"color\":\"Black Titanium\",\"storage\":\"512GB\"}},{\"variantName\":\"iPhone 15 Pro Max 256GB - Natural Titanium\",\"stock\":15,\"price\":\"189900\",\"discountPrice\":\"149900\",\"sku\":\"MOB-741209-I5G-NAT-256\",\"attributes\":{\"color\":\"Natural Titanium\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 15 Pro Max 256GB - White Titanium\",\"stock\":15,\"price\":\"189900\",\"discountPrice\":\"149900\",\"sku\":\"MOB-741209-I5G-WHT-256\",\"attributes\":{\"color\":\"White Titanium\",\"storage\":\"256GB\"}}]",
-      "specifications": "Chip:Apple A17 Pro,RAM:8 GB,Storage:256GB / 512GB / 1TB,Display:6.7 inch Super Retina XDR OLED,Refresh Rate:120 Hz ProMotion,Rear Camera:48MP + 12MP + 12MP Periscope,Front Camera:12MP,Battery:4422 mAh,Charging:27W Fast + MagSafe,OS:iOS 17,5G:Yes,Frame:Titanium,IP Rating:IP68,USB:USB 3 Type-C,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A17 Pro,RAM:8 GB,Storage:256GB / 512GB / 1TB,Display:6.7 inch Super Retina XDR OLED,Refresh Rate:120 Hz ProMotion,Rear Camera:48MP + 12MP + 12MP Periscope,Front Camera:12MP,Battery:4422 mAh,Charging:27W Fast + MagSafe,OS:iOS 17,5G:Yes,Frame:Titanium,IP Rating:IP68,USB:USB 3 Type-C,Warranty:1 Year"
     },
     {
       "id": "MOB-010",
@@ -787,10 +698,7 @@
       "shipmentWeight": 0.48,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPhone 15 Pro 128GB - Natural Titanium\",\"stock\":20,\"price\":\"134900\",\"discountPrice\":\"109900\",\"sku\":\"MOB-741210-J5G-NAT-128\",\"attributes\":{\"color\":\"Natural Titanium\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 15 Pro 256GB - Natural Titanium\",\"stock\":15,\"price\":\"144900\",\"discountPrice\":\"119900\",\"sku\":\"MOB-741210-J5G-NAT-256\",\"attributes\":{\"color\":\"Natural Titanium\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 15 Pro 128GB - Black Titanium\",\"stock\":15,\"price\":\"134900\",\"discountPrice\":\"109900\",\"sku\":\"MOB-741210-J5G-BLK-128\",\"attributes\":{\"color\":\"Black Titanium\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 15 Pro 128GB - White Titanium\",\"stock\":15,\"price\":\"134900\",\"discountPrice\":\"109900\",\"sku\":\"MOB-741210-J5G-WHT-128\",\"attributes\":{\"color\":\"White Titanium\",\"storage\":\"128GB\"}}]",
-      "specifications": "Chip:Apple A17 Pro,RAM:8 GB,Storage:128GB / 256GB / 512GB / 1TB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:120 Hz ProMotion,Rear Camera:48MP + 12MP + 12MP,Front Camera:12MP,Battery:3274 mAh,Charging:27W Fast + MagSafe,OS:iOS 17,5G:Yes,Frame:Titanium,IP Rating:IP68,USB:USB 3 Type-C,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A17 Pro,RAM:8 GB,Storage:128GB / 256GB / 512GB / 1TB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:120 Hz ProMotion,Rear Camera:48MP + 12MP + 12MP,Front Camera:12MP,Battery:3274 mAh,Charging:27W Fast + MagSafe,OS:iOS 17,5G:Yes,Frame:Titanium,IP Rating:IP68,USB:USB 3 Type-C,Warranty:1 Year"
     },
     {
       "id": "MOB-011",
@@ -818,10 +726,7 @@
       "shipmentWeight": 0.4,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPhone 15 128GB - Blue\",\"stock\":30,\"price\":\"79900\",\"discountPrice\":\"64900\",\"sku\":\"MOB-741211-K5G-BLU-128\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 15 256GB - Blue\",\"stock\":20,\"price\":\"89900\",\"discountPrice\":\"74900\",\"sku\":\"MOB-741211-K5G-BLU-256\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 15 128GB - Pink\",\"stock\":25,\"price\":\"79900\",\"discountPrice\":\"64900\",\"sku\":\"MOB-741211-K5G-PNK-128\",\"attributes\":{\"color\":\"Pink\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 15 128GB - Black\",\"stock\":25,\"price\":\"79900\",\"discountPrice\":\"64900\",\"sku\":\"MOB-741211-K5G-BLK-128\",\"attributes\":{\"color\":\"Black\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 15 128GB - Yellow\",\"stock\":20,\"price\":\"79900\",\"discountPrice\":\"64900\",\"sku\":\"MOB-741211-K5G-YEL-128\",\"attributes\":{\"color\":\"Yellow\",\"storage\":\"128GB\"}}]",
-      "specifications": "Chip:Apple A16 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:48MP + 12MP,Front Camera:12MP TrueDepth,Battery:3349 mAh,Charging:20W Fast + MagSafe,OS:iOS 17,5G:Yes,Dynamic Island:Yes,USB:Type-C,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A16 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:48MP + 12MP,Front Camera:12MP TrueDepth,Battery:3349 mAh,Charging:20W Fast + MagSafe,OS:iOS 17,5G:Yes,Dynamic Island:Yes,USB:Type-C,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-012",
@@ -849,10 +754,7 @@
       "shipmentWeight": 0.46,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPhone 15 Plus 128GB - Black\",\"stock\":25,\"price\":\"89900\",\"discountPrice\":\"74900\",\"sku\":\"MOB-741212-L5G-BLK-128\",\"attributes\":{\"color\":\"Black\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 15 Plus 256GB - Black\",\"stock\":20,\"price\":\"99900\",\"discountPrice\":\"84900\",\"sku\":\"MOB-741212-L5G-BLK-256\",\"attributes\":{\"color\":\"Black\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 15 Plus 128GB - Pink\",\"stock\":20,\"price\":\"89900\",\"discountPrice\":\"74900\",\"sku\":\"MOB-741212-L5G-PNK-128\",\"attributes\":{\"color\":\"Pink\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 15 Plus 128GB - Yellow\",\"stock\":20,\"price\":\"89900\",\"discountPrice\":\"74900\",\"sku\":\"MOB-741212-L5G-YEL-128\",\"attributes\":{\"color\":\"Yellow\",\"storage\":\"128GB\"}}]",
-      "specifications": "Chip:Apple A16 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB,Display:6.7 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:48MP + 12MP,Front Camera:12MP TrueDepth,Battery:4383 mAh,Charging:20W Fast + MagSafe,OS:iOS 17,5G:Yes,Dynamic Island:Yes,USB:Type-C,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A16 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB,Display:6.7 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:48MP + 12MP,Front Camera:12MP TrueDepth,Battery:4383 mAh,Charging:20W Fast + MagSafe,OS:iOS 17,5G:Yes,Dynamic Island:Yes,USB:Type-C,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-013",
@@ -880,10 +782,7 @@
       "shipmentWeight": 0.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPhone 14 Pro Max 256GB - Deep Purple\",\"stock\":10,\"price\":\"189900\",\"discountPrice\":\"119900\",\"sku\":\"MOB-741213-M5G-PRP-256\",\"attributes\":{\"color\":\"Deep Purple\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 14 Pro Max 512GB - Space Black\",\"stock\":10,\"price\":\"209900\",\"discountPrice\":\"139900\",\"sku\":\"MOB-741213-M5G-BLK-512\",\"attributes\":{\"color\":\"Space Black\",\"storage\":\"512GB\"}},{\"variantName\":\"iPhone 14 Pro Max 256GB - Silver\",\"stock\":10,\"price\":\"189900\",\"discountPrice\":\"119900\",\"sku\":\"MOB-741213-M5G-SLV-256\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 14 Pro Max 256GB - Gold\",\"stock\":10,\"price\":\"189900\",\"discountPrice\":\"119900\",\"sku\":\"MOB-741213-M5G-GLD-256\",\"attributes\":{\"color\":\"Gold\",\"storage\":\"256GB\"}}]",
-      "specifications": "Chip:Apple A16 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB / 1TB,Display:6.7 inch Super Retina XDR OLED ProMotion,Refresh Rate:120 Hz,Rear Camera:48MP + 12MP + 12MP,Front Camera:12MP TrueDepth,Battery:4323 mAh,Charging:27W + MagSafe,OS:iOS 16 (upgradable to 17),5G:Yes,Dynamic Island:Yes,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A16 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB / 1TB,Display:6.7 inch Super Retina XDR OLED ProMotion,Refresh Rate:120 Hz,Rear Camera:48MP + 12MP + 12MP,Front Camera:12MP TrueDepth,Battery:4323 mAh,Charging:27W + MagSafe,OS:iOS 16 (upgradable to 17),5G:Yes,Dynamic Island:Yes,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "MOB-014",
@@ -911,10 +810,7 @@
       "shipmentWeight": 0.4,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPhone 14 128GB - Starlight\",\"stock\":25,\"price\":\"79900\",\"discountPrice\":\"56999\",\"sku\":\"MOB-741214-N5G-STR-128\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 14 256GB - Starlight\",\"stock\":20,\"price\":\"89900\",\"discountPrice\":\"64999\",\"sku\":\"MOB-741214-N5G-STR-256\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 14 128GB - Midnight\",\"stock\":25,\"price\":\"79900\",\"discountPrice\":\"56999\",\"sku\":\"MOB-741214-N5G-MID-128\",\"attributes\":{\"color\":\"Midnight\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 14 128GB - Blue\",\"stock\":15,\"price\":\"79900\",\"discountPrice\":\"56999\",\"sku\":\"MOB-741214-N5G-BLU-128\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 14 128GB - Purple\",\"stock\":15,\"price\":\"79900\",\"discountPrice\":\"56999\",\"sku\":\"MOB-741214-N5G-PRP-128\",\"attributes\":{\"color\":\"Purple\",\"storage\":\"128GB\"}}]",
-      "specifications": "Chip:Apple A15 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:12MP + 12MP,Front Camera:12MP TrueDepth,Battery:3279 mAh,Charging:20W + MagSafe,OS:iOS 16,5G:Yes,IP Rating:IP68,Crash Detection:Yes,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A15 Bionic,RAM:6 GB,Storage:128GB / 256GB / 512GB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:12MP + 12MP,Front Camera:12MP TrueDepth,Battery:3279 mAh,Charging:20W + MagSafe,OS:iOS 16,5G:Yes,IP Rating:IP68,Crash Detection:Yes,Warranty:1 Year"
     },
     {
       "id": "MOB-015",
@@ -942,10 +838,7 @@
       "shipmentWeight": 0.38,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPhone 13 128GB - Midnight\",\"stock\":40,\"price\":\"59900\",\"discountPrice\":\"39900\",\"sku\":\"MOB-741215-O5G-MID-128\",\"attributes\":{\"color\":\"Midnight\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 13 256GB - Midnight\",\"stock\":30,\"price\":\"69900\",\"discountPrice\":\"49900\",\"sku\":\"MOB-741215-O5G-MID-256\",\"attributes\":{\"color\":\"Midnight\",\"storage\":\"256GB\"}},{\"variantName\":\"iPhone 13 128GB - Starlight\",\"stock\":30,\"price\":\"59900\",\"discountPrice\":\"39900\",\"sku\":\"MOB-741215-O5G-STR-128\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 13 128GB - Pink\",\"stock\":25,\"price\":\"59900\",\"discountPrice\":\"39900\",\"sku\":\"MOB-741215-O5G-PNK-128\",\"attributes\":{\"color\":\"Pink\",\"storage\":\"128GB\"}},{\"variantName\":\"iPhone 13 128GB - Blue\",\"stock\":25,\"price\":\"59900\",\"discountPrice\":\"39900\",\"sku\":\"MOB-741215-O5G-BLU-128\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"128GB\"}}]",
-      "specifications": "Chip:Apple A15 Bionic,RAM:4 GB,Storage:128GB / 256GB / 512GB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:12MP + 12MP,Front Camera:12MP TrueDepth,Battery:3227 mAh,Charging:20W + MagSafe,OS:iOS 15,5G:Yes,IP Rating:IP68,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A15 Bionic,RAM:4 GB,Storage:128GB / 256GB / 512GB,Display:6.1 inch Super Retina XDR OLED,Refresh Rate:60 Hz,Rear Camera:12MP + 12MP,Front Camera:12MP TrueDepth,Battery:3227 mAh,Charging:20W + MagSafe,OS:iOS 15,5G:Yes,IP Rating:IP68,Warranty:1 Year"
     },
     {
       "id": "LAP-001",
@@ -973,10 +866,7 @@
       "shipmentWeight": 1.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"MacBook Air M3 13 256GB 8GB - Midnight\",\"stock\":20,\"price\":\"134900\",\"discountPrice\":\"114900\",\"sku\":\"LAP-852301-A13-MID-256\",\"attributes\":{\"color\":\"Midnight\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"MacBook Air M3 13 512GB 8GB - Midnight\",\"stock\":15,\"price\":\"164900\",\"discountPrice\":\"144900\",\"sku\":\"LAP-852301-A13-MID-512\",\"attributes\":{\"color\":\"Midnight\",\"storage\":\"512GB\",\"ram\":\"8GB\"}},{\"variantName\":\"MacBook Air M3 13 256GB 16GB - Midnight\",\"stock\":15,\"price\":\"154900\",\"discountPrice\":\"134900\",\"sku\":\"LAP-852301-A13-MID-256-16\",\"attributes\":{\"color\":\"Midnight\",\"storage\":\"256GB\",\"ram\":\"16GB\"}},{\"variantName\":\"MacBook Air M3 13 256GB 8GB - Starlight\",\"stock\":15,\"price\":\"134900\",\"discountPrice\":\"114900\",\"sku\":\"LAP-852301-A13-STR-256\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"256GB\",\"ram\":\"8GB\"}}]",
-      "specifications": "Chip:Apple M3,CPU:8-core,GPU:10-core,RAM:8GB / 16GB Unified Memory,Storage:256GB / 512GB / 1TB SSD,Display:13.6 inch Liquid Retina,Resolution:2560x1664,Battery:Up to 18 hours,Weight:1.24 kg,Ports:2x USB-C (Thunderbolt 3) + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M3,CPU:8-core,GPU:10-core,RAM:8GB / 16GB Unified Memory,Storage:256GB / 512GB / 1TB SSD,Display:13.6 inch Liquid Retina,Resolution:2560x1664,Battery:Up to 18 hours,Weight:1.24 kg,Ports:2x USB-C (Thunderbolt 3) + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year"
     },
     {
       "id": "LAP-002",
@@ -1004,10 +894,7 @@
       "shipmentWeight": 1.8,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"MacBook Air M3 15 256GB 8GB - Starlight\",\"stock\":15,\"price\":\"164900\",\"discountPrice\":\"134900\",\"sku\":\"LAP-852302-B15-STR-256\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"MacBook Air M3 15 512GB 8GB - Starlight\",\"stock\":10,\"price\":\"194900\",\"discountPrice\":\"164900\",\"sku\":\"LAP-852302-B15-STR-512\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"512GB\",\"ram\":\"8GB\"}},{\"variantName\":\"MacBook Air M3 15 256GB 16GB - Midnight\",\"stock\":10,\"price\":\"184900\",\"discountPrice\":\"154900\",\"sku\":\"LAP-852302-B15-MID-256-16\",\"attributes\":{\"color\":\"Midnight\",\"storage\":\"256GB\",\"ram\":\"16GB\"}},{\"variantName\":\"MacBook Air M3 15 256GB 8GB - Space Gray\",\"stock\":10,\"price\":\"164900\",\"discountPrice\":\"134900\",\"sku\":\"LAP-852302-B15-SPG-256\",\"attributes\":{\"color\":\"Space Gray\",\"storage\":\"256GB\",\"ram\":\"8GB\"}}]",
-      "specifications": "Chip:Apple M3,CPU:8-core,GPU:10-core,RAM:8GB / 16GB / 24GB Unified Memory,Storage:256GB / 512GB / 1TB / 2TB SSD,Display:15.3 inch Liquid Retina,Resolution:2880x1864,Battery:Up to 18 hours,Weight:1.51 kg,Ports:2x USB-C (Thunderbolt 3) + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M3,CPU:8-core,GPU:10-core,RAM:8GB / 16GB / 24GB Unified Memory,Storage:256GB / 512GB / 1TB / 2TB SSD,Display:15.3 inch Liquid Retina,Resolution:2880x1864,Battery:Up to 18 hours,Weight:1.51 kg,Ports:2x USB-C (Thunderbolt 3) + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year"
     },
     {
       "id": "LAP-003",
@@ -1035,10 +922,7 @@
       "shipmentWeight": 2.2,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"MacBook Pro M3 Pro 14 512GB 18GB - Space Black\",\"stock\":15,\"price\":\"249900\",\"discountPrice\":\"214900\",\"sku\":\"LAP-852303-C14-SPB-512\",\"attributes\":{\"color\":\"Space Black\",\"storage\":\"512GB\",\"ram\":\"18GB\"}},{\"variantName\":\"MacBook Pro M3 Pro 14 1TB 18GB - Space Black\",\"stock\":10,\"price\":\"279900\",\"discountPrice\":\"244900\",\"sku\":\"LAP-852303-C14-SPB-1TB\",\"attributes\":{\"color\":\"Space Black\",\"storage\":\"1TB\",\"ram\":\"18GB\"}},{\"variantName\":\"MacBook Pro M3 Pro 14 512GB 18GB - Silver\",\"stock\":5,\"price\":\"249900\",\"discountPrice\":\"214900\",\"sku\":\"LAP-852303-C14-SLV-512\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"512GB\",\"ram\":\"18GB\"}}]",
-      "specifications": "Chip:Apple M3 Pro,CPU:12-core,GPU:18-core,RAM:18GB / 36GB Unified Memory,Storage:512GB / 1TB / 2TB SSD,Display:14.2 inch Liquid Retina XDR,Resolution:3024x1964,Battery:Up to 18 hours,Weight:1.61 kg,Ports:3x Thunderbolt 4 + HDMI + SD Card + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M3 Pro,CPU:12-core,GPU:18-core,RAM:18GB / 36GB Unified Memory,Storage:512GB / 1TB / 2TB SSD,Display:14.2 inch Liquid Retina XDR,Resolution:3024x1964,Battery:Up to 18 hours,Weight:1.61 kg,Ports:3x Thunderbolt 4 + HDMI + SD Card + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year"
     },
     {
       "id": "LAP-004",
@@ -1066,10 +950,7 @@
       "shipmentWeight": 2.7,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"MacBook Pro M3 Pro 16 512GB 18GB - Silver\",\"stock\":10,\"price\":\"299900\",\"discountPrice\":\"264900\",\"sku\":\"LAP-852304-D16-SLV-512\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"512GB\",\"ram\":\"18GB\"}},{\"variantName\":\"MacBook Pro M3 Pro 16 1TB 18GB - Silver\",\"stock\":5,\"price\":\"329900\",\"discountPrice\":\"294900\",\"sku\":\"LAP-852304-D16-SLV-1TB\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"1TB\",\"ram\":\"18GB\"}},{\"variantName\":\"MacBook Pro M3 Pro 16 512GB 18GB - Space Black\",\"stock\":5,\"price\":\"299900\",\"discountPrice\":\"264900\",\"sku\":\"LAP-852304-D16-SPB-512\",\"attributes\":{\"color\":\"Space Black\",\"storage\":\"512GB\",\"ram\":\"18GB\"}}]",
-      "specifications": "Chip:Apple M3 Pro,CPU:12-core,GPU:18-core,RAM:18GB / 36GB Unified Memory,Storage:512GB / 1TB / 2TB SSD,Display:16.2 inch Liquid Retina XDR,Resolution:3456x2234,Battery:Up to 22 hours,Weight:2.14 kg,Ports:3x Thunderbolt 4 + HDMI + SD Card + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M3 Pro,CPU:12-core,GPU:18-core,RAM:18GB / 36GB Unified Memory,Storage:512GB / 1TB / 2TB SSD,Display:16.2 inch Liquid Retina XDR,Resolution:3456x2234,Battery:Up to 22 hours,Weight:2.14 kg,Ports:3x Thunderbolt 4 + HDMI + SD Card + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year"
     },
     {
       "id": "LAP-005",
@@ -1097,10 +978,7 @@
       "shipmentWeight": 2.2,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Book4 Pro 360 16 512GB 16GB - Moonstone Gray\",\"stock\":15,\"price\":\"224990\",\"discountPrice\":\"174990\",\"sku\":\"LAP-852305-E16-GRY-512\",\"attributes\":{\"color\":\"Moonstone Gray\",\"storage\":\"512GB\",\"ram\":\"16GB\"}},{\"variantName\":\"Galaxy Book4 Pro 360 16 1TB 16GB - Moonstone Gray\",\"stock\":10,\"price\":\"254990\",\"discountPrice\":\"199990\",\"sku\":\"LAP-852305-E16-GRY-1TB\",\"attributes\":{\"color\":\"Moonstone Gray\",\"storage\":\"1TB\",\"ram\":\"16GB\"}}]",
-      "specifications": "Processor:Intel Core Ultra 7 155H,RAM:16GB LPDDR5,Storage:512GB NVMe SSD,Display:16 inch 3K AMOLED Touch 360,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:Intel Arc Graphics,Battery:76Wh,Battery Life:Up to 17 hours,OS:Windows 11 Home,Connectivity:Wi-Fi 6E + Bluetooth 5.3,Ports:2x Thunderbolt 4 + USB-A + HDMI + microSD,S Pen:Yes included,Weight:1.66 kg,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Intel Core Ultra 7 155H,RAM:16GB LPDDR5,Storage:512GB NVMe SSD,Display:16 inch 3K AMOLED Touch 360,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:Intel Arc Graphics,Battery:76Wh,Battery Life:Up to 17 hours,OS:Windows 11 Home,Connectivity:Wi-Fi 6E + Bluetooth 5.3,Ports:2x Thunderbolt 4 + USB-A + HDMI + microSD,S Pen:Yes included,Weight:1.66 kg,Warranty:1 Year"
     },
     {
       "id": "LAP-006",
@@ -1128,10 +1006,7 @@
       "shipmentWeight": 2.5,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Book4 Ultra 16 1TB 32GB - Moonstone Gray\",\"stock\":15,\"price\":\"289990\",\"discountPrice\":\"224990\",\"sku\":\"LAP-852306-F16-GRY-1TB\",\"attributes\":{\"color\":\"Moonstone Gray\",\"storage\":\"1TB\",\"ram\":\"32GB\"}}]",
-      "specifications": "Processor:Intel Core Ultra 9 185H,RAM:32GB LPDDR5x,Storage:1TB NVMe SSD,Display:16 inch 3K AMOLED,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:NVIDIA GeForce RTX 4070 8GB,Battery:76Wh,OS:Windows 11 Pro,Connectivity:Wi-Fi 6E + Bluetooth 5.3,Ports:2x Thunderbolt 4 + 2x USB-A + HDMI + microSD,Weight:1.86 kg,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Intel Core Ultra 9 185H,RAM:32GB LPDDR5x,Storage:1TB NVMe SSD,Display:16 inch 3K AMOLED,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:NVIDIA GeForce RTX 4070 8GB,Battery:76Wh,OS:Windows 11 Pro,Connectivity:Wi-Fi 6E + Bluetooth 5.3,Ports:2x Thunderbolt 4 + 2x USB-A + HDMI + microSD,Weight:1.86 kg,Warranty:1 Year"
     },
     {
       "id": "LAP-007",
@@ -1159,10 +1034,7 @@
       "shipmentWeight": 1.6,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Book3 Pro 360 14 512GB 16GB - Beige\",\"stock\":15,\"price\":\"174990\",\"discountPrice\":\"124990\",\"sku\":\"LAP-852307-G14-BEI-512\",\"attributes\":{\"color\":\"Beige\",\"storage\":\"512GB\",\"ram\":\"16GB\"}},{\"variantName\":\"Galaxy Book3 Pro 360 14 512GB 16GB - Graphite\",\"stock\":15,\"price\":\"174990\",\"discountPrice\":\"124990\",\"sku\":\"LAP-852307-G14-GRP-512\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"512GB\",\"ram\":\"16GB\"}}]",
-      "specifications": "Processor:Intel Core i7-1360P,RAM:16GB LPDDR5,Storage:512GB NVMe SSD,Display:14 inch 3K AMOLED Touch 360,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:Intel Iris Xe,Battery:63Wh,OS:Windows 11 Home,Connectivity:Wi-Fi 6E + Bluetooth 5.1,Weight:1.59 kg,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Intel Core i7-1360P,RAM:16GB LPDDR5,Storage:512GB NVMe SSD,Display:14 inch 3K AMOLED Touch 360,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:Intel Iris Xe,Battery:63Wh,OS:Windows 11 Home,Connectivity:Wi-Fi 6E + Bluetooth 5.1,Weight:1.59 kg,Warranty:1 Year"
     },
     {
       "id": "LAP-008",
@@ -1190,10 +1062,7 @@
       "shipmentWeight": 2.1,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Book3 360 15.6 512GB 8GB - Silver\",\"stock\":20,\"price\":\"134990\",\"discountPrice\":\"94990\",\"sku\":\"LAP-852308-H15-SLV-512\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"512GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy Book3 360 15.6 512GB 16GB - Silver\",\"stock\":20,\"price\":\"149990\",\"discountPrice\":\"109990\",\"sku\":\"LAP-852308-H15-SLV-512-16\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"512GB\",\"ram\":\"16GB\"}}]",
-      "specifications": "Processor:Intel Core i7-1355U,RAM:8GB / 16GB LPDDR5,Storage:512GB NVMe SSD,Display:15.6 inch FHD AMOLED Touch 360,Resolution:1920x1080,Refresh Rate:60Hz,Graphics:Intel Iris Xe,Battery:68Wh,OS:Windows 11 Home,Connectivity:Wi-Fi 6 + Bluetooth 5.1,Weight:1.92 kg,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Intel Core i7-1355U,RAM:8GB / 16GB LPDDR5,Storage:512GB NVMe SSD,Display:15.6 inch FHD AMOLED Touch 360,Resolution:1920x1080,Refresh Rate:60Hz,Graphics:Intel Iris Xe,Battery:68Wh,OS:Windows 11 Home,Connectivity:Wi-Fi 6 + Bluetooth 5.1,Weight:1.92 kg,Warranty:1 Year"
     },
     {
       "id": "LAP-009",
@@ -1221,10 +1090,7 @@
       "shipmentWeight": 2.3,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Book3 Pro 16 512GB 16GB - Graphite\",\"stock\":15,\"price\":\"169990\",\"discountPrice\":\"129990\",\"sku\":\"LAP-852309-I16-GRP-512\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"512GB\",\"ram\":\"16GB\"}},{\"variantName\":\"Galaxy Book3 Pro 16 1TB 16GB - Graphite\",\"stock\":13,\"price\":\"194990\",\"discountPrice\":\"154990\",\"sku\":\"LAP-852309-I16-GRP-1TB\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"1TB\",\"ram\":\"16GB\"}}]",
-      "specifications": "Processor:Intel Core i7-1360P,RAM:16GB LPDDR5,Storage:512GB / 1TB NVMe SSD,Display:16 inch 3K AMOLED,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:Intel Iris Xe,Battery:76Wh,OS:Windows 11 Home,Connectivity:Wi-Fi 6E + Bluetooth 5.1,Weight:1.76 kg,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Intel Core i7-1360P,RAM:16GB LPDDR5,Storage:512GB / 1TB NVMe SSD,Display:16 inch 3K AMOLED,Resolution:2880x1800,Refresh Rate:120Hz,Graphics:Intel Iris Xe,Battery:76Wh,OS:Windows 11 Home,Connectivity:Wi-Fi 6E + Bluetooth 5.1,Weight:1.76 kg,Warranty:1 Year"
     },
     {
       "id": "LAP-010",
@@ -1252,10 +1118,7 @@
       "shipmentWeight": 2,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"MacBook Pro M3 14 512GB 8GB - Silver\",\"stock\":15,\"price\":\"199900\",\"discountPrice\":\"169900\",\"sku\":\"LAP-852310-J14-SLV-512\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"512GB\",\"ram\":\"8GB\"}},{\"variantName\":\"MacBook Pro M3 14 1TB 8GB - Silver\",\"stock\":10,\"price\":\"219900\",\"discountPrice\":\"189900\",\"sku\":\"LAP-852310-J14-SLV-1TB\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"1TB\",\"ram\":\"8GB\"}},{\"variantName\":\"MacBook Pro M3 14 512GB 8GB - Space Gray\",\"stock\":10,\"price\":\"199900\",\"discountPrice\":\"169900\",\"sku\":\"LAP-852310-J14-SPG-512\",\"attributes\":{\"color\":\"Space Gray\",\"storage\":\"512GB\",\"ram\":\"8GB\"}}]",
-      "specifications": "Chip:Apple M3,CPU:8-core,GPU:10-core,RAM:8GB / 16GB / 24GB Unified Memory,Storage:512GB / 1TB / 2TB SSD,Display:14.2 inch Liquid Retina XDR,Resolution:3024x1964,Battery:Up to 22 hours,Weight:1.55 kg,Ports:2x Thunderbolt 3 + HDMI + SD Card + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M3,CPU:8-core,GPU:10-core,RAM:8GB / 16GB / 24GB Unified Memory,Storage:512GB / 1TB / 2TB SSD,Display:14.2 inch Liquid Retina XDR,Resolution:3024x1964,Battery:Up to 22 hours,Weight:1.55 kg,Ports:2x Thunderbolt 3 + HDMI + SD Card + MagSafe 3 + 3.5mm,OS:macOS Sonoma,Warranty:1 Year"
     },
     {
       "id": "TAB-001",
@@ -1283,10 +1146,7 @@
       "shipmentWeight": 1.2,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S9 Ultra 256GB 12GB - Graphite Wi-Fi\",\"stock\":15,\"price\":\"132999\",\"discountPrice\":\"108999\",\"sku\":\"TAB-147301-A14-GRP-256\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"256GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S9 Ultra 512GB 12GB - Graphite Wi-Fi\",\"stock\":10,\"price\":\"152999\",\"discountPrice\":\"124999\",\"sku\":\"TAB-147301-A14-GRP-512\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"512GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S9 Ultra 256GB 12GB - Beige Wi-Fi\",\"stock\":5,\"price\":\"132999\",\"discountPrice\":\"108999\",\"sku\":\"TAB-147301-A14-BEI-256\",\"attributes\":{\"color\":\"Beige\",\"storage\":\"256GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB / 1TB,Display:14.6 inch Dynamic AMOLED 2X,Resolution:2960x1848,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP + 12MP,Battery:11200 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 6E,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB / 1TB,Display:14.6 inch Dynamic AMOLED 2X,Resolution:2960x1848,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP + 12MP,Battery:11200 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 6E,Warranty:1 Year"
     },
     {
       "id": "TAB-002",
@@ -1314,10 +1174,7 @@
       "shipmentWeight": 0.9,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S9+ 256GB 12GB - Beige Wi-Fi\",\"stock\":20,\"price\":\"109999\",\"discountPrice\":\"84999\",\"sku\":\"TAB-147302-B12-BEI-256\",\"attributes\":{\"color\":\"Beige\",\"storage\":\"256GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S9+ 512GB 12GB - Graphite Wi-Fi\",\"stock\":15,\"price\":\"129999\",\"discountPrice\":\"99999\",\"sku\":\"TAB-147302-B12-GRP-512\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"512GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S9+ 256GB 12GB - Lavender Wi-Fi\",\"stock\":10,\"price\":\"109999\",\"discountPrice\":\"84999\",\"sku\":\"TAB-147302-B12-LAV-256\",\"attributes\":{\"color\":\"Lavender\",\"storage\":\"256GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB,Display:12.4 inch Dynamic AMOLED 2X,Resolution:2800x1752,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP,Battery:10090 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 6E,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:12 GB,Storage:256GB / 512GB,Display:12.4 inch Dynamic AMOLED 2X,Resolution:2800x1752,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP,Battery:10090 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 6E,Warranty:1 Year"
     },
     {
       "id": "TAB-003",
@@ -1345,10 +1202,7 @@
       "shipmentWeight": 0.7,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S9 FE 128GB 6GB - Lavender\",\"stock\":25,\"price\":\"54999\",\"discountPrice\":\"34999\",\"sku\":\"TAB-147303-C10-LAV-128\",\"attributes\":{\"color\":\"Lavender\",\"storage\":\"128GB\",\"ram\":\"6GB\"}},{\"variantName\":\"Galaxy Tab S9 FE 256GB 8GB - Lavender\",\"stock\":20,\"price\":\"64999\",\"discountPrice\":\"42999\",\"sku\":\"TAB-147303-C10-LAV-256\",\"attributes\":{\"color\":\"Lavender\",\"storage\":\"256GB\",\"ram\":\"8GB\"}},{\"variantName\":\"Galaxy Tab S9 FE 128GB 6GB - Graphite\",\"stock\":20,\"price\":\"54999\",\"discountPrice\":\"34999\",\"sku\":\"TAB-147303-C10-GRP-128\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"128GB\",\"ram\":\"6GB\"}},{\"variantName\":\"Galaxy Tab S9 FE 128GB 6GB - Mint\",\"stock\":15,\"price\":\"54999\",\"discountPrice\":\"34999\",\"sku\":\"TAB-147303-C10-MNT-128\",\"attributes\":{\"color\":\"Mint\",\"storage\":\"128GB\",\"ram\":\"6GB\"}}]",
-      "specifications": "Processor:Exynos 1380,RAM:6GB / 8GB,Storage:128GB / 256GB,Display:10.9 inch PLS TFT LCD,Resolution:2304x1440,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:10MP,Battery:8000 mAh,IP Rating:IP68,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 5,S Pen:Yes included,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Exynos 1380,RAM:6GB / 8GB,Storage:128GB / 256GB,Display:10.9 inch PLS TFT LCD,Resolution:2304x1440,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:10MP,Battery:8000 mAh,IP Rating:IP68,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 5,S Pen:Yes included,Warranty:1 Year"
     },
     {
       "id": "TAB-004",
@@ -1376,10 +1230,7 @@
       "shipmentWeight": 0.7,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S9 128GB 8GB - Graphite Wi-Fi\",\"stock\":20,\"price\":\"93999\",\"discountPrice\":\"68999\",\"sku\":\"TAB-147304-D11-GRP-128\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"128GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S9 256GB 8GB - Graphite Wi-Fi\",\"stock\":20,\"price\":\"108999\",\"discountPrice\":\"82999\",\"sku\":\"TAB-147304-D11-GRP-256\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"256GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S9 128GB 8GB - Beige Wi-Fi\",\"stock\":10,\"price\":\"93999\",\"discountPrice\":\"68999\",\"sku\":\"TAB-147304-D11-BEI-128\",\"attributes\":{\"color\":\"Beige\",\"storage\":\"128GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:8 GB,Storage:128GB / 256GB,Display:11 inch Dynamic AMOLED 2X,Resolution:2560x1600,Refresh Rate:120 Hz,Rear Camera:13MP + 6MP,Front Camera:12MP,Battery:8400 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 13,Connectivity:Wi-Fi 6E,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 8 Gen 2,RAM:8 GB,Storage:128GB / 256GB,Display:11 inch Dynamic AMOLED 2X,Resolution:2560x1600,Refresh Rate:120 Hz,Rear Camera:13MP + 6MP,Front Camera:12MP,Battery:8400 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 13,Connectivity:Wi-Fi 6E,Warranty:1 Year"
     },
     {
       "id": "TAB-005",
@@ -1407,10 +1258,7 @@
       "shipmentWeight": 0.6,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab A9+ 128GB 8GB - Graphite Wi-Fi\",\"stock\":35,\"price\":\"38999\",\"discountPrice\":\"24999\",\"sku\":\"TAB-147305-E11-GRP-128\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"128GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab A9+ 128GB 8GB - Sapphire Blue Wi-Fi\",\"stock\":35,\"price\":\"38999\",\"discountPrice\":\"24999\",\"sku\":\"TAB-147305-E11-BLU-128\",\"attributes\":{\"color\":\"Sapphire Blue\",\"storage\":\"128GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab A9+ 128GB 8GB - Silver Wi-Fi\",\"stock\":30,\"price\":\"38999\",\"discountPrice\":\"24999\",\"sku\":\"TAB-147305-E11-SLV-128\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"128GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:Snapdragon 695,RAM:8 GB,Storage:128GB,Display:11 inch LCD,Resolution:1920x1200,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:5MP,Battery:7040 mAh,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 5,Quad Speakers:Yes Dolby Atmos,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Snapdragon 695,RAM:8 GB,Storage:128GB,Display:11 inch LCD,Resolution:1920x1200,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:5MP,Battery:7040 mAh,OS:Android 13 (One UI 5.1),Connectivity:Wi-Fi 5,Quad Speakers:Yes Dolby Atmos,Warranty:1 Year"
     },
     {
       "id": "TAB-006",
@@ -1438,10 +1286,7 @@
       "shipmentWeight": 1.3,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S10 Ultra 256GB 12GB - Moonstone Gray Wi-Fi\",\"stock\":15,\"price\":\"149999\",\"discountPrice\":\"119999\",\"sku\":\"TAB-147306-F14-GRY-256\",\"attributes\":{\"color\":\"Moonstone Gray\",\"storage\":\"256GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S10 Ultra 512GB 12GB - Moonstone Gray Wi-Fi\",\"stock\":10,\"price\":\"169999\",\"discountPrice\":\"139999\",\"sku\":\"TAB-147306-F14-GRY-512\",\"attributes\":{\"color\":\"Moonstone Gray\",\"storage\":\"512GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:MediaTek Dimensity 9300,RAM:12 GB,Storage:256GB / 512GB / 1TB,Display:14.6 inch Dynamic AMOLED 2X,Resolution:2960x1848,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP + 12MP,Battery:11200 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14 (One UI 6.1),Connectivity:Wi-Fi 7,Galaxy AI:Yes,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:MediaTek Dimensity 9300,RAM:12 GB,Storage:256GB / 512GB / 1TB,Display:14.6 inch Dynamic AMOLED 2X,Resolution:2960x1848,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP + 12MP,Battery:11200 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14 (One UI 6.1),Connectivity:Wi-Fi 7,Galaxy AI:Yes,Warranty:1 Year"
     },
     {
       "id": "TAB-007",
@@ -1469,10 +1314,7 @@
       "shipmentWeight": 0.95,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S10+ 256GB 12GB - Moonstone Gray Wi-Fi\",\"stock\":20,\"price\":\"119999\",\"discountPrice\":\"94999\",\"sku\":\"TAB-147307-G12-GRY-256\",\"attributes\":{\"color\":\"Moonstone Gray\",\"storage\":\"256GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S10+ 512GB 12GB - Moonstone Gray Wi-Fi\",\"stock\":15,\"price\":\"134999\",\"discountPrice\":\"109999\",\"sku\":\"TAB-147307-G12-GRY-512\",\"attributes\":{\"color\":\"Moonstone Gray\",\"storage\":\"512GB\",\"ram\":\"12GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:MediaTek Dimensity 9300,RAM:12 GB,Storage:256GB / 512GB,Display:12.4 inch Dynamic AMOLED 2X,Resolution:2800x1752,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP,Battery:10090 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14 (One UI 6.1),Connectivity:Wi-Fi 7,Galaxy AI:Yes,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:MediaTek Dimensity 9300,RAM:12 GB,Storage:256GB / 512GB,Display:12.4 inch Dynamic AMOLED 2X,Resolution:2800x1752,Refresh Rate:120 Hz,Rear Camera:13MP + 8MP,Front Camera:12MP,Battery:10090 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14 (One UI 6.1),Connectivity:Wi-Fi 7,Galaxy AI:Yes,Warranty:1 Year"
     },
     {
       "id": "TAB-008",
@@ -1500,10 +1342,7 @@
       "shipmentWeight": 0.65,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S10 FE 128GB 6GB - Blue Wi-Fi\",\"stock\":25,\"price\":\"59999\",\"discountPrice\":\"39999\",\"sku\":\"TAB-147308-H10-BLU-128\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"128GB\",\"ram\":\"6GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S10 FE 256GB 8GB - Blue Wi-Fi\",\"stock\":20,\"price\":\"69999\",\"discountPrice\":\"48999\",\"sku\":\"TAB-147308-H10-BLU-256\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"256GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S10 FE 128GB 6GB - Graphite Wi-Fi\",\"stock\":25,\"price\":\"59999\",\"discountPrice\":\"39999\",\"sku\":\"TAB-147308-H10-GRP-128\",\"attributes\":{\"color\":\"Graphite\",\"storage\":\"128GB\",\"ram\":\"6GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:Exynos 1480,RAM:6GB / 8GB,Storage:128GB / 256GB,Display:10.9 inch LCD,Resolution:2304x1440,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:10MP,Battery:8000 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14,Galaxy AI:Yes,Connectivity:Wi-Fi 6,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Exynos 1480,RAM:6GB / 8GB,Storage:128GB / 256GB,Display:10.9 inch LCD,Resolution:2304x1440,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:10MP,Battery:8000 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14,Galaxy AI:Yes,Connectivity:Wi-Fi 6,Warranty:1 Year"
     },
     {
       "id": "TAB-009",
@@ -1531,10 +1370,7 @@
       "shipmentWeight": 0.65,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPad Pro M4 11 256GB - Space Black Wi-Fi\",\"stock\":15,\"price\":\"119900\",\"discountPrice\":\"99900\",\"sku\":\"TAB-147309-I11-SPB-256\",\"attributes\":{\"color\":\"Space Black\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Pro M4 11 512GB - Space Black Wi-Fi\",\"stock\":10,\"price\":\"149900\",\"discountPrice\":\"129900\",\"sku\":\"TAB-147309-I11-SPB-512\",\"attributes\":{\"color\":\"Space Black\",\"storage\":\"512GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Pro M4 11 256GB - Silver Wi-Fi\",\"stock\":15,\"price\":\"119900\",\"discountPrice\":\"99900\",\"sku\":\"TAB-147309-I11-SLV-256\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Chip:Apple M4,CPU:10-core,GPU:10-core,RAM:8GB / 16GB,Storage:256GB / 512GB / 1TB / 2TB,Display:11 inch Ultra Retina XDR OLED,Resolution:2420x1668,Refresh Rate:120 Hz ProMotion,Rear Camera:12MP,Front Camera:12MP,Battery:31.29Wh,Thickness:5.3mm,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M4,CPU:10-core,GPU:10-core,RAM:8GB / 16GB,Storage:256GB / 512GB / 1TB / 2TB,Display:11 inch Ultra Retina XDR OLED,Resolution:2420x1668,Refresh Rate:120 Hz ProMotion,Rear Camera:12MP,Front Camera:12MP,Battery:31.29Wh,Thickness:5.3mm,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year"
     },
     {
       "id": "TAB-010",
@@ -1562,10 +1398,7 @@
       "shipmentWeight": 0.85,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPad Pro M4 13 256GB - Silver Wi-Fi\",\"stock\":10,\"price\":\"149900\",\"discountPrice\":\"129900\",\"sku\":\"TAB-147310-J13-SLV-256\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Pro M4 13 512GB - Silver Wi-Fi\",\"stock\":8,\"price\":\"179900\",\"discountPrice\":\"155900\",\"sku\":\"TAB-147310-J13-SLV-512\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"512GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Pro M4 13 256GB - Space Black Wi-Fi\",\"stock\":7,\"price\":\"149900\",\"discountPrice\":\"129900\",\"sku\":\"TAB-147310-J13-SPB-256\",\"attributes\":{\"color\":\"Space Black\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Chip:Apple M4,CPU:10-core,GPU:10-core,RAM:8GB / 16GB,Storage:256GB / 512GB / 1TB / 2TB,Display:13 inch Ultra Retina XDR OLED,Resolution:2752x2064,Refresh Rate:120 Hz ProMotion,Rear Camera:12MP,Front Camera:12MP,Battery:38.99Wh,Thickness:5.1mm,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M4,CPU:10-core,GPU:10-core,RAM:8GB / 16GB,Storage:256GB / 512GB / 1TB / 2TB,Display:13 inch Ultra Retina XDR OLED,Resolution:2752x2064,Refresh Rate:120 Hz ProMotion,Rear Camera:12MP,Front Camera:12MP,Battery:38.99Wh,Thickness:5.1mm,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year"
     },
     {
       "id": "TAB-011",
@@ -1593,10 +1426,7 @@
       "shipmentWeight": 0.6,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPad Air M2 11 128GB - Blue Wi-Fi\",\"stock\":20,\"price\":\"74900\",\"discountPrice\":\"59900\",\"sku\":\"TAB-147311-K11-BLU-128\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"128GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Air M2 11 256GB - Blue Wi-Fi\",\"stock\":15,\"price\":\"94900\",\"discountPrice\":\"78900\",\"sku\":\"TAB-147311-K11-BLU-256\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Air M2 11 128GB - Purple Wi-Fi\",\"stock\":15,\"price\":\"74900\",\"discountPrice\":\"59900\",\"sku\":\"TAB-147311-K11-PRP-128\",\"attributes\":{\"color\":\"Purple\",\"storage\":\"128GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Air M2 11 128GB - Starlight Wi-Fi\",\"stock\":10,\"price\":\"74900\",\"discountPrice\":\"59900\",\"sku\":\"TAB-147311-K11-STR-128\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"128GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Chip:Apple M2,CPU:8-core,GPU:9-core,RAM:8GB,Storage:128GB / 256GB / 512GB / 1TB,Display:11 inch Liquid Retina,Resolution:2360x1640,Refresh Rate:60 Hz,Rear Camera:12MP,Front Camera:12MP,Battery:28.65Wh,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M2,CPU:8-core,GPU:9-core,RAM:8GB,Storage:128GB / 256GB / 512GB / 1TB,Display:11 inch Liquid Retina,Resolution:2360x1640,Refresh Rate:60 Hz,Rear Camera:12MP,Front Camera:12MP,Battery:28.65Wh,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year"
     },
     {
       "id": "TAB-012",
@@ -1624,10 +1454,7 @@
       "shipmentWeight": 0.75,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPad Air M2 13 128GB - Starlight Wi-Fi\",\"stock\":12,\"price\":\"99900\",\"discountPrice\":\"84900\",\"sku\":\"TAB-147312-L13-STR-128\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"128GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Air M2 13 256GB - Starlight Wi-Fi\",\"stock\":10,\"price\":\"119900\",\"discountPrice\":\"104900\",\"sku\":\"TAB-147312-L13-STR-256\",\"attributes\":{\"color\":\"Starlight\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad Air M2 13 128GB - Blue Wi-Fi\",\"stock\":13,\"price\":\"99900\",\"discountPrice\":\"84900\",\"sku\":\"TAB-147312-L13-BLU-128\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"128GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Chip:Apple M2,CPU:8-core,GPU:9-core,RAM:8GB,Storage:128GB / 256GB / 512GB / 1TB,Display:13 inch Liquid Retina,Resolution:2732x2048,Refresh Rate:60 Hz,Rear Camera:12MP,Front Camera:12MP,Battery:36.59Wh,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple M2,CPU:8-core,GPU:9-core,RAM:8GB,Storage:128GB / 256GB / 512GB / 1TB,Display:13 inch Liquid Retina,Resolution:2732x2048,Refresh Rate:60 Hz,Rear Camera:12MP,Front Camera:12MP,Battery:36.59Wh,OS:iPadOS 17,Connectivity:Wi-Fi 6E,Apple Pencil:Apple Pencil Pro,Warranty:1 Year"
     },
     {
       "id": "TAB-013",
@@ -1655,10 +1482,7 @@
       "shipmentWeight": 0.55,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPad 10th Gen 64GB - Blue Wi-Fi\",\"stock\":25,\"price\":\"44900\",\"discountPrice\":\"34900\",\"sku\":\"TAB-147313-M10-BLU-64\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad 10th Gen 256GB - Blue Wi-Fi\",\"stock\":20,\"price\":\"64900\",\"discountPrice\":\"54900\",\"sku\":\"TAB-147313-M10-BLU-256\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad 10th Gen 64GB - Pink Wi-Fi\",\"stock\":20,\"price\":\"44900\",\"discountPrice\":\"34900\",\"sku\":\"TAB-147313-M10-PNK-64\",\"attributes\":{\"color\":\"Pink\",\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad 10th Gen 64GB - Yellow Wi-Fi\",\"stock\":15,\"price\":\"44900\",\"discountPrice\":\"34900\",\"sku\":\"TAB-147313-M10-YEL-64\",\"attributes\":{\"color\":\"Yellow\",\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad 10th Gen 64GB - Silver Wi-Fi\",\"stock\":10,\"price\":\"44900\",\"discountPrice\":\"34900\",\"sku\":\"TAB-147313-M10-SLV-64\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Chip:Apple A14 Bionic,RAM:4GB,Storage:64GB / 256GB,Display:10.9 inch Liquid Retina,Resolution:2360x1640,Rear Camera:12MP,Front Camera:12MP Center Stage,Battery:28.65Wh,OS:iPadOS 16,Connectivity:Wi-Fi 6,USB:USB-C,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A14 Bionic,RAM:4GB,Storage:64GB / 256GB,Display:10.9 inch Liquid Retina,Resolution:2360x1640,Rear Camera:12MP,Front Camera:12MP Center Stage,Battery:28.65Wh,OS:iPadOS 16,Connectivity:Wi-Fi 6,USB:USB-C,Warranty:1 Year"
     },
     {
       "id": "TAB-014",
@@ -1686,10 +1510,7 @@
       "shipmentWeight": 0.4,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"iPad mini 6th Gen 64GB - Purple Wi-Fi\",\"stock\":15,\"price\":\"64900\",\"discountPrice\":\"49900\",\"sku\":\"TAB-147314-N8-PRP-64\",\"attributes\":{\"color\":\"Purple\",\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad mini 6th Gen 256GB - Purple Wi-Fi\",\"stock\":15,\"price\":\"84900\",\"discountPrice\":\"69900\",\"sku\":\"TAB-147314-N8-PRP-256\",\"attributes\":{\"color\":\"Purple\",\"storage\":\"256GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad mini 6th Gen 64GB - Pink Wi-Fi\",\"stock\":15,\"price\":\"64900\",\"discountPrice\":\"49900\",\"sku\":\"TAB-147314-N8-PNK-64\",\"attributes\":{\"color\":\"Pink\",\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"iPad mini 6th Gen 64GB - Space Gray Wi-Fi\",\"stock\":10,\"price\":\"64900\",\"discountPrice\":\"49900\",\"sku\":\"TAB-147314-N8-SPG-64\",\"attributes\":{\"color\":\"Space Gray\",\"storage\":\"64GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Chip:Apple A15 Bionic,RAM:4GB,Storage:64GB / 256GB,Display:8.3 inch Liquid Retina,Resolution:2266x1488,Rear Camera:12MP,Front Camera:12MP,Battery:19.32Wh,OS:iPadOS 15,Connectivity:Wi-Fi 6,USB:USB-C,Apple Pencil:2nd Gen,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Chip:Apple A15 Bionic,RAM:4GB,Storage:64GB / 256GB,Display:8.3 inch Liquid Retina,Resolution:2266x1488,Rear Camera:12MP,Front Camera:12MP,Battery:19.32Wh,OS:iPadOS 15,Connectivity:Wi-Fi 6,USB:USB-C,Apple Pencil:2nd Gen,Warranty:1 Year"
     },
     {
       "id": "TAB-015",
@@ -1717,10 +1538,7 @@
       "shipmentWeight": 0.8,
       "shipmentWeightUnit": "kg",
       "variants": "[{\"variantName\":\"Galaxy Tab S10 FE+ 128GB 8GB - Gray Wi-Fi\",\"stock\":20,\"price\":\"74999\",\"discountPrice\":\"49999\",\"sku\":\"TAB-147315-O13-GRY-128\",\"attributes\":{\"color\":\"Gray\",\"storage\":\"128GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S10 FE+ 256GB 8GB - Blue Wi-Fi\",\"stock\":20,\"price\":\"84999\",\"discountPrice\":\"59999\",\"sku\":\"TAB-147315-O13-BLU-256\",\"attributes\":{\"color\":\"Blue\",\"storage\":\"256GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}},{\"variantName\":\"Galaxy Tab S10 FE+ 128GB 8GB - Silver Wi-Fi\",\"stock\":20,\"price\":\"74999\",\"discountPrice\":\"49999\",\"sku\":\"TAB-147315-O13-SLV-128\",\"attributes\":{\"color\":\"Silver\",\"storage\":\"128GB\",\"ram\":\"8GB\",\"connectivity\":\"Wi-Fi\"}}]",
-      "specifications": "Processor:Exynos 1580,RAM:8 GB,Storage:128GB / 256GB,Display:13.1 inch LCD,Resolution:2160x1350,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:12MP,Battery:10090 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14,Galaxy AI:Yes,Connectivity:Wi-Fi 6,Warranty:1 Year",
-      "productDescription": "",
-      "keyFeatures": "",
-      "whatsInBox": ""
+      "specifications": "Processor:Exynos 1580,RAM:8 GB,Storage:128GB / 256GB,Display:13.1 inch LCD,Resolution:2160x1350,Refresh Rate:90 Hz,Rear Camera:8MP,Front Camera:12MP,Battery:10090 mAh,S Pen:Yes included,IP Rating:IP68,OS:Android 14,Galaxy AI:Yes,Connectivity:Wi-Fi 6,Warranty:1 Year"
     }
   ]
 }
