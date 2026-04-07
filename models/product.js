@@ -86,65 +86,87 @@ const productSchema = new mongoose.Schema({
 }, { timestamps: true });
 
 // Pre-save middleware to calculate average rating and update rating distribution
+// Only recalculate if reviews array was modified; preserve seeded values otherwise
 productSchema.pre('save', function(next) {
-  if (this.reviews && this.reviews.length > 0) {
-    const activeReviews = this.reviews.filter(review => review.isActive);
-    this.totalReviews = activeReviews.length;
-    
-    if (this.totalReviews > 0) {
-      const totalRating = activeReviews.reduce((sum, review) => sum + review.rating, 0);
-      this.averageRating = Math.round((totalRating / this.totalReviews) * 10) / 10;
+  // Check if this is a new document or if reviews were explicitly modified
+  const isNew = this.isNew;
+  const reviewsModified = this.isModified('reviews');
+  
+  // Only recalculate ratings if reviews were modified or if this is a new document with existing reviews
+  if (reviewsModified || (isNew && this.reviews && this.reviews.length > 0)) {
+    if (this.reviews && this.reviews.length > 0) {
+      const activeReviews = this.reviews.filter(review => review.isActive);
+      this.totalReviews = activeReviews.length;
       
-      // Reset rating distribution
-      this.ratingDistribution = {
-        fiveStar: 0,
-        fourStar: 0,
-        threeStar: 0,
-        twoStar: 0,
-        oneStar: 0
-      };
-      
-      // Calculate rating distribution
-      activeReviews.forEach(review => {
-        switch (review.rating) {
-          case 5:
-            this.ratingDistribution.fiveStar++;
-            break;
-          case 4:
-            this.ratingDistribution.fourStar++;
-            break;
-          case 3:
-            this.ratingDistribution.threeStar++;
-            break;
-          case 2:
-            this.ratingDistribution.twoStar++;
-            break;
-          case 1:
-            this.ratingDistribution.oneStar++;
-            break;
+      if (this.totalReviews > 0) {
+        const totalRating = activeReviews.reduce((sum, review) => sum + review.rating, 0);
+        this.averageRating = Math.round((totalRating / this.totalReviews) * 10) / 10;
+        
+        // Reset rating distribution
+        this.ratingDistribution = {
+          fiveStar: 0,
+          fourStar: 0,
+          threeStar: 0,
+          twoStar: 0,
+          oneStar: 0
+        };
+        
+        // Calculate rating distribution
+        activeReviews.forEach(review => {
+          switch (review.rating) {
+            case 5:
+              this.ratingDistribution.fiveStar++;
+              break;
+            case 4:
+              this.ratingDistribution.fourStar++;
+              break;
+            case 3:
+              this.ratingDistribution.threeStar++;
+              break;
+            case 2:
+              this.ratingDistribution.twoStar++;
+              break;
+            case 1:
+              this.ratingDistribution.oneStar++;
+              break;
+          }
+        });
+      } else {
+        // Only reset if ratings weren't explicitly set
+        if (!this.isModified('averageRating')) {
+          this.averageRating = 0;
         }
-      });
+        if (!this.isModified('totalReviews')) {
+          this.totalReviews = 0;
+        }
+        this.ratingDistribution = {
+          fiveStar: 0,
+          fourStar: 0,
+          threeStar: 0,
+          twoStar: 0,
+          oneStar: 0
+        };
+      }
     } else {
-      this.averageRating = 0;
-      this.ratingDistribution = {
-        fiveStar: 0,
-        fourStar: 0,
-        threeStar: 0,
-        twoStar: 0,
-        oneStar: 0
-      };
+      // No reviews - only reset if not explicitly set
+      if (!this.isModified('averageRating')) {
+        this.averageRating = 0;
+      }
+      if (!this.isModified('totalReviews')) {
+        this.totalReviews = 0;
+      }
+      if (!this.ratingDistribution) {
+        this.ratingDistribution = {
+          fiveStar: 0,
+          fourStar: 0,
+          threeStar: 0,
+          twoStar: 0,
+          oneStar: 0
+        };
+      }
     }
-  } else {
-    this.averageRating = 0;
-    this.totalReviews = 0;
-    this.ratingDistribution = {
-      fiveStar: 0,
-      fourStar: 0,
-      threeStar: 0,
-      twoStar: 0,
-      oneStar: 0
-    };
   }
+  // If reviews weren't modified and not a new doc with reviews, preserve existing values
   next();
 });
 
