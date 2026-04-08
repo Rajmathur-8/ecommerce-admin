@@ -510,24 +510,46 @@ export const getImportTemplate = async (req, res) => {
 // Get categories for import
 export const getCategoriesForImport = async (req, res) => {
   try {
-    const categories = await CategoryModel.find({}, 'name');
-    const subcategories = await SubcategoryModel.find({}, 'name category')
-      .populate('category', 'name');
+    // Get all categories (sorted by name for consistency)
+    const categories = await CategoryModel.find({}, 'name').sort({ name: 1 });
+    
+    // Get all subcategories with category details
+    const subcategories = await SubcategoryModel.find({ isActive: true }, 'name category')
+      .populate('category', 'name')
+      .sort({ name: 1 });
+
+    // Filter out subcategories with null or missing category references
+    const validSubcategories = subcategories
+      .filter(sub => sub.category && sub.category.name)
+      .map(sub => ({
+        name: sub.name,
+        category: sub.category.name
+      }));
+
+    // If no categories exist, throw a meaningful error
+    if (!categories || categories.length === 0) {
+      return res.status(400).json({
+        success: false,
+        data: {
+          categories: [],
+          subcategories: []
+        },
+        message: 'No categories found. Please add categories first before importing products.'
+      });
+    }
 
     res.status(200).json({
       success: true,
       data: {
         categories: categories.map(cat => cat.name),
-        subcategories: subcategories.map(sub => ({
-          name: sub.name,
-          category: sub.category.name
-        }))
+        subcategories: validSubcategories
       }
     });
   } catch (error) {
+    console.error('Error fetching categories for import:', error);
     res.status(500).json({
       success: false,
-      message: 'Internal server error'
+      message: 'Failed to load categories for import. Please ensure categories are set up in the system.'
     });
   }
 };
